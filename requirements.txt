@@ -4,3 +4,4 @@ tensorflow==2.8.0
 requests==2.27.1
 pandas==1.3.5
 numpy==1.21.5
+jieba==0.42.1
